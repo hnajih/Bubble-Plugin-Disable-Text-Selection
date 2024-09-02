@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "mobile",
+        "1": "containers",
+        "2": "web scraping",
+        "3": "compliance",
+        "4": "technical"
+    },
+    "demo_page": "https://apex-charts-79431.bubbleapps.io/version-test/disable_text?debug_mode=true",
+    "description": "In web browsers, if you double-click on some text it will be selected/highlighted. This plugin can be used to prevent this. either by the disable text element in the page or by action\n\n\nDemo https://apex-charts-79431.bubbleapps.io/version-test/disable_text?debug_mode=true",
+    "image": "//meta-q.cdn.bubble.io/f1725274268545x484916563182090600/Animation%20-%201725273996014.gif",
+    "license": "open_source",
+    "name": "Disable Text Selection"
+}

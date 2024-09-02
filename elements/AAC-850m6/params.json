@@ -1,0 +1,10 @@
+{
+    "add_is_visible": false,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 20
+    },
+    "display": "disable text",
+    "icon": "ion-android-cancel"
+}
